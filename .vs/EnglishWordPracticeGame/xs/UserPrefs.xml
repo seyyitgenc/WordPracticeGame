@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{77DA6126-99BC-479E-A31B-DF0DF23372ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnglishWordPracticeGame/MainForm.cs">
+    <Files>
+      <File FileName="EnglishWordPracticeGame/Program.cs" Line="9" Column="1" />
+      <File FileName="EnglishWordPracticeGame/MainForm.cs" Line="211" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnglishWordPracticeGame" expanded="True">
+            <Node name="EnglishWordPracticeGame" expanded="True">
+              <Node name="MainForm.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>txtcompare</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../EnglishWordPracticeGame/MainForm.cs" line="165" offsetX="638" offsetY="2952" expression="txtcompare" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.EnglishWordPracticeGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/home/seyyitgenc/Projects/EnglishWordPracticeGame/EnglishWordPracticeGame/obj/x86/Debug/EnglishWordPracticeGame.csprojAssemblyReference.cache
+/home/seyyitgenc/Projects/EnglishWordPracticeGame/EnglishWordPracticeGame/obj/x86/Debug/EnglishWordPracticeGame.csproj.CoreCompileInputs.cache
+/home/seyyitgenc/Projects/EnglishWordPracticeGame/EnglishWordPracticeGame/bin/Debug/EnglishWordPracticeGame.exe
+/home/seyyitgenc/Projects/EnglishWordPracticeGame/EnglishWordPracticeGame/bin/Debug/EnglishWordPracticeGame.pdb
+/home/seyyitgenc/Projects/EnglishWordPracticeGame/EnglishWordPracticeGame/obj/x86/Debug/EnglishWordPracticeGame.exe
+/home/seyyitgenc/Projects/EnglishWordPracticeGame/EnglishWordPracticeGame/obj/x86/Debug/EnglishWordPracticeGame.pdb
